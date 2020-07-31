@@ -2,7 +2,10 @@
 awesome links with references
 
 - [Design](#design)
+- [Frontend](#frontend)
 - [Testing and Mocks](#testing-and-mocks)
+- [Validators](#validators)
+- [Misc](#miscelaneous)
 
 ## Design
 
@@ -44,6 +47,7 @@ awesome links with references
 - [HTML Arrows](https://www.toptal.com/designers/htmlarrows/) - reference of codification to use symbols in HTML
 - [Font Joy](https://fontjoy.com) - Generates fonts combination 
 - [GooFonts](https://goofonts.com) - Tagged fonts
+- [Font Spring](https://www.fontspring.com/matcherator) - tries to identify the font based on an image
 
 ## Frontend
 
@@ -52,17 +56,17 @@ awesome links with references
 - [Flexbox Defense](http://www.flexboxdefense.com): learn CSS Flexbox [2]
 
 
-## Validators
-- [GeoJsonLint](http://geojsonlint.com)
-- [JSONLint](https://jsonlint.com) 
-
 ## Testing and Mocks
 - https://via.placeholder.com/ - mock placeholder images adding `/width x height`
 - https://ethereal.email/ - online inbox with SMTP configuration for testing
 - https://reqres.in/ - mock API
 - https://crontab.guru/ - check cron tab syntax
 - https://webhook.site/ - temporary webhook, to test webhook integrations
-- https://www.fontspring.com/matcherator?token=ihjn5svajq02ja95 - tries to identify the font based on an image
+
+## Validators
+- [GeoJsonLint](http://geojsonlint.com)
+- [JSONLint](https://jsonlint.com) 
+
 
 ## Miscelaneous
 
