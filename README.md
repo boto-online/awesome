@@ -12,6 +12,8 @@ awesome links with references
 ### References
 - [awwwards](https://www.awwwards.com/) - reference of awarded website designs
 - [Instagram UX Trends](https://www.instagram.com/ux_trends/) - reference of cool interfaces
+- [Site Inspire](https://www.siteinspire.com) - reference of awarded website designs
+- [The FWA](https://thefwa.com) - reference of awarded website designs
 
 ### Tools
 - [Colorshark](https://colorshark.io):  Test color contrast ratio and allow testing lightness, hue and saturation
