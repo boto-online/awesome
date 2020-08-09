@@ -26,6 +26,7 @@ awesome links with references
 - [Adobe Colors](https://color.adobe.com/pt/create/color-wheel/) - get palete from selecting colors from wheel
 - [Brand Colors](https://brandcolors.net/) - color palette of famous brands
 - [Canva color palette](https://www.canva.com/color-palette/) - color palette generated based on an uploaded image
+- [Coolors](https://coolors.co): color palete generator
 - [LoL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 - [Colormind](http://colormind.io/) - color palette generator
 - [Contrast Ratio](https://contrast-ratio.com/) - contrast ratio calculator
