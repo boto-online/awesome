@@ -30,6 +30,7 @@ awesome links with references
 - [LoL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 - [Colormind](http://colormind.io/) - color palette generator
 - [Contrast Ratio](https://contrast-ratio.com/) - contrast ratio calculator
+- [Grabient](https://www.grabient.com/) - gradient color paletes
 
 ### Free assets 
 - [MixKit](https://mixkit.co/) - free videos assets
