@@ -52,6 +52,7 @@ awesome links with references
 - [Font Joy](https://fontjoy.com) - Generates fonts combination 
 - [GooFonts](https://goofonts.com) - Tagged fonts
 - [Font Spring](https://www.fontspring.com/matcherator) - tries to identify the font based on an image
+- [Fonts in use](https://fontsinuse.com/) - An independent archive of typography.
 
 ## Frontend
 
