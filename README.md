@@ -10,6 +10,8 @@ awesome links with references
 ## Design
 
 ### References
+- [Sidebar](https://sidebar.io/) - Daily newsletter with 5 highlight links 
+- [ProductHunt](https://www.producthunt.com) - Inspiration for product development
 - [awwwards](https://www.awwwards.com/) - reference of awarded website designs
 - [Instagram UX Trends](https://www.instagram.com/ux_trends/) - reference of cool interfaces
 - [Site Inspire](https://www.siteinspire.com) - reference of awarded website designs
