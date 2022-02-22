@@ -76,13 +76,14 @@ awesome links with references
 - [GeoJsonLint](http://geojsonlint.com)
 - [JSONLint](https://jsonlint.com) 
 
-### Data sets
-- [Base de dados](https://basedosdados.org/)
-- [Brasil.io](https://brasil.io/)
-- [Dados abertos](https://dados.gov.br/)
 
 ## Miscelaneous
 
 - [Git explorer](https://gitexplorer.com): Find git commands based on what you need
 - [StackShare](https://stackshare.io/stacks) - Stack of technologies and tools adopted by famous companies
 - [Firacode Font](https://github.com/tonsky/FiraCode) - Monospaced font with dev visual
+
+### Data sets
+- [Base de dados](https://basedosdados.org/)
+- [Brasil.io](https://brasil.io/)
+- [Dados abertos](https://dados.gov.br/)
