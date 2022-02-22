@@ -5,6 +5,7 @@ awesome links with references
 - [Frontend](#frontend)
 - [Testing and Mocks](#testing-and-mocks)
 - [Validators](#validators)
+- [Data sets](#data-sets)
 - [Misc](#miscelaneous)
 
 ## Design
@@ -75,6 +76,10 @@ awesome links with references
 - [GeoJsonLint](http://geojsonlint.com)
 - [JSONLint](https://jsonlint.com) 
 
+### Data sets
+- [Base de dados](https://basedosdados.org/)
+- [Brasil.io](https://brasil.io/)
+- [Dados abertos](https://dados.gov.br/)
 
 ## Miscelaneous
 
