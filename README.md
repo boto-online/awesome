@@ -57,6 +57,7 @@ awesome links with references
 - [GooFonts](https://goofonts.com) - Tagged fonts
 - [Font Spring](https://www.fontspring.com/matcherator) - tries to identify the font based on an image
 - [Fonts in use](https://fontsinuse.com/) - An independent archive of typography.
+- [Font Brief](https://www.fontbrief.com/fontbrief) - ferramenta que sugere fontes a partir de um briefing de atributos desejados
 
 ## Frontend
 
