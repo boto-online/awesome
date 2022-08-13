@@ -1,5 +1,6 @@
-# awesomeness
-awesome links with references
+# ｂｏｔｏ【﻿𝒜𝒲𝐸𝒮𝒪𝑀𝐸】
+
+Links de referências maravilindos
 
 - [Design](#design)
 - [Frontend](#frontend)
